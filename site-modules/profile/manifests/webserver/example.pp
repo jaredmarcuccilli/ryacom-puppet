@@ -1,5 +1,5 @@
 # /etc/puppetlabs/code/environments/production/site/profile/manifests/webserver/example.pp
-class profile::webserver::example (
+class profile::apacheserver::example (
   String $content      = "Hello from vhost\\n",
   Array[String] $ports = ['80']
   Array[String] $ips   = ['127.0.0.1','127.0.0.2'],
