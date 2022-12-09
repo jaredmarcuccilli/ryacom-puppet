@@ -1,4 +1,4 @@
 class role::exampleserver {
   include profile::base
-  include profile::webserver::example
+  include profile::apacheserver
 }
