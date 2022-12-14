@@ -8,6 +8,7 @@ forge 'https://forge.puppet.com'
 mod 'puppetlabs/apache', '5.4.0'
 mod 'puppetlabs/stdlib', '4.13.1'
 mod 'puppetlabs/concat',  '2.2.1'
+mod 'puppet-zabbix', '9.2.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
