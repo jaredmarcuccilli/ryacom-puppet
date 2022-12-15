@@ -1,4 +1,4 @@
-class profile::zabbix6-client-profile {
+class profile::zabbix6clientprofile {
   class { 'zabbix::agent':
     server => 'zabbix.ad.ryacom.org',
     zabbix_version       => '6.0',
