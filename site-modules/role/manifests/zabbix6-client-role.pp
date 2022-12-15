@@ -1,4 +1,4 @@
-class role::zabbix6-client-role {
+class role::zabbix6clientrole {
   include profile::base
-  include profile::zabbix6-client-profile
+  include profile::zabbix6clientprofile
 }
