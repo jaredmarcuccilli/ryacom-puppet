@@ -7,7 +7,6 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/concat',  '7.0.1'
 mod 'puppetlabs/apache', '8.6.0'
 mod 'puppetlabs/stdlib', '8.5.0'
-#mod 'puppetlabs/concat',  'latest'
 mod 'puppetlabs/postgresql', '8.2.1'
 mod 'puppetlabs/mysql', '13.0.1'
 mod 'puppetlabs/firewall', '4.0.1'
@@ -15,6 +14,7 @@ mod 'puppetlabs/apt', '9.0.0'
 mod 'puppet/systemd', '3.10.0'
 mod 'puppet/selinux', '3.4.1'
 mod 'puppet/zabbix', '9.2.0'
+mod 'puppet/chrony', '2.6.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
