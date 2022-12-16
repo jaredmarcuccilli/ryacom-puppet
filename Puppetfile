@@ -11,11 +11,12 @@ mod 'puppetlabs/postgresql', '8.2.1'
 mod 'puppetlabs/mysql', '13.0.1'
 mod 'puppetlabs/firewall', '4.0.1'
 mod 'puppetlabs/apt', '9.0.0'
+mod 'puppetlabs/motd', '6.3.0'
+mod 'puppetlabs/accounts', '7.3.0'
 mod 'puppet/systemd', '3.10.0'
 mod 'puppet/selinux', '3.4.1'
 mod 'puppet/zabbix', '9.2.0'
 mod 'puppet/chrony', '2.6.0'
-mod 'puppetlabs/motd', '6.3.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
