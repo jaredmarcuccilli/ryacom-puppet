@@ -18,6 +18,7 @@ mod 'puppet/selinux', '3.4.1'
 mod 'puppet/zabbix', '9.2.0'
 mod 'puppet/chrony', '2.6.0'
 #mod 'wazuh-wazuh', '4.3.10'
+mod 'puppet-splunk', '9.1.1'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
