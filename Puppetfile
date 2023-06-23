@@ -21,6 +21,7 @@ mod 'puppet/chrony', '2.6.0'
 mod 'puppet/splunk', '9.1.1'
 mod 'puppetlabs-puppet_agent', '4.14.0'
 mod 'puppetlabs/sshkeys_core', '2.4.0'
+mod 'puppetlabs/inifile', :latest
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
